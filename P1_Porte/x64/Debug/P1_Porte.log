@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\Latitude 7280\3D Objects\CPP_IHM1\P1_Porte\main.c(23,9): warning C4133: 'fonction' : types incompatibles - de 'int *' à 'const char *const '
+C:\Users\Latitude 7280\3D Objects\CPP_IHM1\P1_Porte\main.c(30,17): warning C4047: '=' : les niveaux d'indirection de 'int' et de 'int *' sont différents
+C:\Users\Latitude 7280\3D Objects\CPP_IHM1\P1_Porte\main.c(31,23): warning C4047: 'fonction' : les niveaux d'indirection de 'const char *' et de 'char **' sont différents
+C:\Users\Latitude 7280\3D Objects\CPP_IHM1\P1_Porte\main.c(31,21): warning C4024: 'strcpy' : types différents pour le paramètre formel et réel 2
+C:\Users\Latitude 7280\3D Objects\CPP_IHM1\P1_Porte\main.c(54,55): warning C4133: 'fonction' : types incompatibles - de 'int *' à 'const char *const '
+C:\Users\Latitude 7280\3D Objects\CPP_IHM1\P1_Porte\main.c(54,16): error C2075: 'temp' : l’initialisation nécessite une liste d’initialiseurs entre accolades
